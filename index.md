@@ -6,7 +6,7 @@ If you are looking for the official supported Wrye Bash website for Oblivion, Sk
 
 ### Fallout 3 and Fallout New Vegas
 
-Valda was kind enough to give me authoritative access to both his Wrye Flash for Fallout 3 and Fallout New Vegas. The versions are for the most part as Valda left them. On occasion, when reported, minor changes are made to the record definitions. Other then that they are not maintained.  You can find them at the links below.
+Valda was kind enough to give me authoritative access to his versions of Wrye Flash for Fallout 3 and Fallout New Vegas. The versions are for the most part as Valda left them. On occasion, when reported, minor changes are made to the record definitions. Recently I updated Wrye Flash for Fallout New Vegas to include JIP Version 51.60.  Other then that they are not maintained.  You can find them at the links below.
 
 - [Wrye Flash Fallout 3](https://www.nexusmods.com/fallout3/mods/11336/?)
 - [Wrye Flash Fallout New Vegas](https://www.nexusmods.com/newvegas/mods/35003/?)
