@@ -29,3 +29,6 @@ There are two options for download, the Python Code and a Standalone EXE.  The p
 The Wrye mash documentation will be available online soon after I make some changes.
 
 [Documentation](wryemash.html)
+### Legal
+
+[Legal](legal.md)
