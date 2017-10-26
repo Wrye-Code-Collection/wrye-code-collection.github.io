@@ -24,6 +24,8 @@ There are two options for download, the Python Code and a Standalone EXE.  The p
 - [Wrye Mash Python Code](https://github.com/Wrye-Code-Collection/Wrye-Mash/archive/dev-yacoby-wrye.zip)
 - [Wrye Mash Standalone](https://github.com/Wrye-Code-Collection/Wrye-Mash/releases)
 
+I am working collecting links from the Morrowind Nexus and other sources of other [Morrowind Utilities](other.md)
+
 ### Wrye Mash for Morrowind Documentation
 
 The Wrye mash documentation will be available online soon after I make some changes.
