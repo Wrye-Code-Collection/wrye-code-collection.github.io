@@ -3,7 +3,7 @@ description: Collection of Wrye Mash/Flash/Bash source code
 # google_analytics: true
 # show_downloads: true
 theme: jekyll-theme-cayman
-
+baseurl: /wrye-code-collection.github.io
 exclude: ['README.md']
 gems:
   - jekyll-mentions
