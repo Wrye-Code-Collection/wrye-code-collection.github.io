@@ -1,3 +1,7 @@
+---
+layout: default
+title: Wrye-Code-Collection
+---
 ### Official Wrye Bash site
 
 If you are looking for the official supported Wrye Bash website for Oblivion, Skyrim, Skyrim SE, and Fallout 4 that project is [located here](https://github.com/wrye-bash/wrye-bash).
@@ -23,3 +27,5 @@ There are two options for download, the Python Code and a Standalone EXE.  The p
 ### Wrye Mash for Morrowind Documentation
 
 The Wrye mash documentation will be available online soon after I make some changes.
+
+[Documentation](wryemash.html)
