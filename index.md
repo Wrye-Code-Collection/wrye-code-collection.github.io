@@ -2,11 +2,11 @@
 layout: default
 title: Wrye-Code-Collection
 ---
+## Welcome to my collection of Wrye Mash/Flash/Bash Code
+
 ### Official Wrye Bash site
 
 If you are looking for the official supported Wrye Bash website for Oblivion, Skyrim, Skyrim SE, and Fallout 4 that project is [located here](https://github.com/wrye-bash/wrye-bash).
-
-## Welcome to my collection of Wrye Mash/Flash/Bash Code
 
 ### Fallout 3 and Fallout New Vegas
 
