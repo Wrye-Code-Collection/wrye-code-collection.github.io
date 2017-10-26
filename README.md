@@ -1,6 +1,6 @@
 wrye-code-collection.github.io
 ======================
 
-https://wrye-code-collection.github.io/
+Collection of all my Wrye Mash/Flash/Bash source code
 
-File you see first and a link to the page you are supposed to go to.
+https://wrye-code-collection.github.io
