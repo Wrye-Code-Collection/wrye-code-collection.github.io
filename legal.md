@@ -4,7 +4,9 @@ title: xEdit-Wiki
 ---
 ## Legal Information
 
-All likenesses of the Elder Scrolls and Fallout Boy logos/icons are used as mod/fansite content.  Any such likeness are used with permission from [GStaff](https://bethesda.net/community/user/gstaff) unless the use of such logos/icons changes.
+The Wrye Monkey Avatar is used with permission. The Wrye-Code-Collection is not maintained by Wrye.  The Wrye name and icon are used as fansite content.
+
+Likenesses of the Elder Scrolls and Fallout Boy logos/icons are used as mod/fansite content.  Any such likeness are used with permission from [GStaff](https://bethesda.net/community/user/gstaff) unless the use of such logos/icons changes.
 
 Bethesda Softworks® LLC / Bethesda Game Studios® / Bethesda Studios Montréal Inc.
 
