@@ -1,10 +1,10 @@
 title: Wrye-Code-Collection
 description: Collection of Wrye Mash/Flash/Bash source code
-# google_analytics: true
+exclude: ['README.md']
+google_analytics:
 # show_downloads: true
 theme: jekyll-theme-cayman
-# baseurl: /wrye-code-collection.github.io
-exclude: ['README.md']
+
 gems:
   - jekyll-mentions
 plugins:
