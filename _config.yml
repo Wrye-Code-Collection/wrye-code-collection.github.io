@@ -7,4 +7,5 @@ theme: jekyll-theme-cayman
 exclude: ['README.md']
 gems:
   - jekyll-mentions
+plugins:
   - jekyll-relative-links
