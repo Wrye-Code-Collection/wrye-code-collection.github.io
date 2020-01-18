@@ -4,6 +4,7 @@ exclude: ['README.md']
 google_analytics:
 exclude: [
   'pagebuilder/',
+  'idea/',
 ]
 # show_downloads: true
 theme: jekyll-theme-cayman
