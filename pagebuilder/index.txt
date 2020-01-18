@@ -1,0 +1,34 @@
+{{PAGETITLE="Wrye-Code-Collection"}}
+## Welcome to my collection of Wrye Mash/Flash/Bash Code
+{{CONTENTS=2}}
+### Official Wrye Bash site
+
+If you are looking for the official supported Wrye Bash website for Oblivion, Skyrim, Skyrim SE, and Fallout 4 that project is [[https://github.com/wrye-bash/wrye-bash | located here]].
+
+### Fallout 3 and Fallout New Vegas
+
+Valda was kind enough to give me authoritative access to his versions of Wrye Flash for Fallout 3 and Fallout New Vegas. The versions are for the most part as Valda left them. On occasion, when reported, minor changes are made to the record definitions. Recently I updated Wrye Flash for Fallout New Vegas to include JIP Version 51.60.  Other then that they are not maintained.  You can find them at the links below.
+
+[[https://www.nexusmods.com/fallout3/mods/11336/? |Wrye Flash Fallout 3]]
+[[https://www.nexusmods.com/newvegas/mods/35003/ | Wrye Flash Fallout New Vegas]]
+
+### Wrye Mash for Morrowind
+
+I had asked Wrye if I could update Wrye mash a few years back but never really started doing any work on it until recently. I have resolved a few bugs, updated some of the code to more fully support Unicode, and made sure you can still compile it into a standalone exe file.  
+
+There are two options for download, the Python Code and a Standalone EXE.  The python code will always be up to date with any of the current changes but requires Python 2.7.12 or higher installed as well as a few other components. The standalone EXE offered will usually be the last stable build. As changes are made if it is determined another stable build can be released you will find it in the releases section of the Wrye Mash repository.
+
+[[https://github.com/Wrye-Code-Collection/Wrye-Mash/archive/dev-yacoby-wrye.zip | Wrye Mash Python Code]]
+[[https://github.com/Wrye-Code-Collection/Wrye-Mash/releases | Wrye Mash Standalone]]
+
+### Legal
+
+* The Wrye Monkey Avatar is used with permission. The Wrye-Code-Collection is not maintained by Wrye and the Wrye name and icon are used as fansite content.
+* Likenesses of the Elder Scrolls and Fallout Boy logos/icons are used as mod/fansite content.  Any such likeness are used with permission from [[https://bethesda.net/community/user/gstaff | GStaff]] unless the use of such logos/icons changes.
+* Bethesda Softworks® LLC / Bethesda Game Studios® / Bethesda Studios Montréal Inc.
+* Bethesda, Bethesda Softworks and Bethesda Game Studios and their respective logos are registered trademarks of ZeniMax Media Inc. in the U.S. and/or other countries. All Rights Reserved.
+* The Elder Scrolls® Series
+  . © 1993-2015 Bethesda Softworks LLC, a ZeniMax Media company. The Elder Scrolls, Bethesda Softworks, ZeniMax and their respective logos are registered trademarks of ZeniMax Media Inc. All Rights Reserved.
+* The Fallout® Series
+  . © 1997-2016 Bethesda Softworks LLC, a ZeniMax Media company. Fallout, Bethesda Softworks, ZeniMax and their respective logos are registered trademarks of ZeniMax Media Inc. All Rights Reserved.
+* Additional Legal information available from [[https://bethesda.net/en/document/legal-information | Bethesda's Website]]
